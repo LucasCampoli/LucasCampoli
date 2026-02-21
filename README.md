@@ -37,7 +37,7 @@
 
 ### 📈 My GitHub Stats
 <p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="60%">
+  <img src="https://raw.githubusercontent.com/LucasCampoli/LucasCampoli/output/github-metrics.svg" alt="GitHub Metrics" width="60%">
 </p>
 
 ---
