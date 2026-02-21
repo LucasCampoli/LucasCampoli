@@ -1,10 +1,18 @@
-<img src="assets/banner.gif" alt="Banner of LucasCampoli">
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Lucas+Campoli+%F0%9F%91%8B)](https://git.io/typing-svg)
+<img src="assets/banner.gif" alt="Banner of LucasCampoli" width="100%">
 
-Computer Engineering student at ITBA with a strong interest in AI, Cybersecurity, and Cloud Computing. Passionate about building secure, scalable systems and exploring the intersection of emerging technologies.
+<br>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4493F8&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Lucas+Campoli+%F0%9F%91%8B)](https://linkedin.com/in/lucascampoli)
+
+*Computer Engineering student at ITBA with a strong interest in AI, Cybersecurity, and Cloud Computing. Passionate about building secure, scalable systems and exploring the intersection of emerging technologies.*
+
+<br>
 
 ---
+</div>
 
 ### 📊 Contribution Snake
 <picture>
