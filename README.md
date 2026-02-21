@@ -13,8 +13,6 @@ I am a **Computer Engineering Student** at ITBA, focused on software architectur
 
 ---
 
-<div align="center">
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -27,24 +25,22 @@ I am a **Computer Engineering Student** at ITBA, focused on software architectur
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,linux" />
 </div>
 
-<hr>
-
 ---
 
 ### 📈 My GitHub Stats
 <p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="80%">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="60%">
 </p>
 
 ---
 
 ### 📫 Connect with me
 
-<p align="left">
-  <a href="https://linkedin.com/in/lucascampoli" target="_blank">
+<p align="center">
+  <a href="www.linkedin.com/in/lucas-campoli-998970325" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu-email@itba.edu.ar" target="_blank">
+  <a href="mailto:lcampoli@itba.edu.ar" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/LucasCampoli" target="_blank">
