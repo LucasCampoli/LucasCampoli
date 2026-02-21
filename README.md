@@ -1,7 +1,8 @@
 <img src="assets/banner.gif" alt="Banner of LucasCampoli">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Lucas+Campoli+%F0%9F%91%8B)](https://git.io/typing-svg)
-I am a **Computer Engineering Student** at ITBA, focused on software architecture and distributed systems. 
+
+Computer Engineering student at ITBA with a strong interest in AI, Cybersecurity, and Cloud Computing. Passionate about building secure, scalable systems and exploring the intersection of emerging technologies.
 
 ---
 
@@ -22,8 +23,6 @@ I am a **Computer Engineering Student** at ITBA, focused on software architectur
   <img src="https://skillicons.dev/icons?i=spring,react,nodejs,nextjs,redux" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,postgres,mongodb" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,linux" />
 </div>
 
 ---
