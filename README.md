@@ -1,3 +1,5 @@
+<img src="assets/banner.gif" alt="Banner of LucasCampoli">
+
 # Hi, I'm Lucas Campoli 👋
 
 I am a **Computer Engineering Student** at ITBA, focused on software architecture and distributed systems. 
