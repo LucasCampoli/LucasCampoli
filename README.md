@@ -35,12 +35,6 @@
 
 ---
 
-### 📈 My GitHub Stats
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LucasCampoli/LucasCampoli/output/github-metrics.svg" alt="GitHub Metrics" width="60%">
-</p>
-
----
 
 ### 📫 Connect with me
 
